@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageVersion>v1.0.1</PackageVersion>
+    <Authors>Ahmed Ezzat</Authors>
+    <Copyright>@Ahmed Ezzat</Copyright>
+    <Owners>Ahmed Ezzat</Owners>
+    <PackageProjectUrl>https://github.com/probabilty/PaginateMe</PackageProjectUrl>
+    <Summary>efcore pagination utlity</Summary>
+    <PackageTags>efcore, paginate, pagination</PackageTags>
+    <Title>PaginateMe</Title>
+  </PropertyGroup>
+    <ItemGroup>
+       <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.11" />
+    </ItemGroup>
+
+</Project>

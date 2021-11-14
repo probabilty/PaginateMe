@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginateMe", "PaginateMe\PaginateMe.csproj", "{DD2DDE20-5DE8-48D3-9A20-FCEAC020780F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DD00641-242D-4CBB-8CD8-236705D5A443}"
+	ProjectSection(SolutionItems) = preProject
+		icon.jpg = icon.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2DDE20-5DE8-48D3-9A20-FCEAC020780F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2DDE20-5DE8-48D3-9A20-FCEAC020780F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2DDE20-5DE8-48D3-9A20-FCEAC020780F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2DDE20-5DE8-48D3-9A20-FCEAC020780F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72320D46-C7FC-4DDB-A098-C898572760B4}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+		$0.VersionControlPolicy = $6
+	EndGlobalSection
+EndGlobal
