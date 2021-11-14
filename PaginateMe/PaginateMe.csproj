@@ -11,6 +11,8 @@
     <Summary>efcore pagination utlity</Summary>
     <PackageTags>efcore, paginate, pagination</PackageTags>
     <Title>PaginateMe</Title>
+    <PackageIconUrl>https://github.com/probabilty/PaginateMe/blob/master/icon.jpg</PackageIconUrl>
+    <PackageLicenseUrl>https://github.com/probabilty/PaginateMe/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
     <ItemGroup>
        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.11" />
